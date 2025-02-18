@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lib helper"
+version = "0.0.1"
+authors = [
+  { name="Rocco S", email="robotmen13@gmail.com" },
+]
+description = "A py library helper"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pycheet"]
+
+[project.urls]
+Homepage = ""
+Issues = ""
