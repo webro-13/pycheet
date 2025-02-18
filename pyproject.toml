@@ -3,12 +3,12 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "lib helper"
-version = "0.0.1"
+name = "pycheet"
+version = "0.0.4"
 authors = [
-  { name="Rocco S", email="robotmen13@gmail.com" },
+  { name="Rocco S", email="botmech@outlook.com" },
 ]
-description = "A py library helper"
+description = "A small python cheet package"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -22,5 +22,5 @@ license-files = ["LICEN[CS]E*"]
 packages = ["src/pycheet"]
 
 [project.urls]
-Homepage = ""
-Issues = ""
+Homepage = "https://github.com/webro-13/pycheet"
+Issues = "https://github.com/webro-13/pycheet/issues"
