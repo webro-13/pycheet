@@ -1,1 +1,0 @@
-this library is made to help you find out the syntax for some python librarys
