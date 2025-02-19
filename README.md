@@ -1,1 +1,1 @@
-this library is a python "cheet" library. it currently is still under development
+this library is a python "cheet" library. it currently is still under development.(I recomend installing "libhelp" to find out the syntax/code.)
