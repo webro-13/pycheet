@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pycheet"
-version = "0.0.7"
+version = "0.0.9"
 authors = [
   { name="Rocco S", email="botmech@outlook.com" },
 ]
